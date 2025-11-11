@@ -2,7 +2,7 @@
 title: "AWS Exam promotional offer-November 2025"
 datePublished: Tue Nov 11 2025 06:22:26 GMT+0000 (Coordinated Universal Time)
 cuid: cmhu6p5t4000302lb45e7hroz
-slug: aws-exam-promotional-offer-november-2025
+slug: aws-exam-promotional-offer-nove
 tags: cloud, aws, offer
 
 ---
